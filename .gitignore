@@ -1,9 +1,16 @@
-# Virtual environment
+# Python virtual environment
 quantum_env/
+venv/
+.env/
 
 # Python cache
 __pycache__/
 *.pyc
 
-# Secrets
-.env
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
