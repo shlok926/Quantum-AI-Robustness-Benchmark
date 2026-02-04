@@ -1,0 +1,9 @@
+# Virtual environment
+quantum_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
