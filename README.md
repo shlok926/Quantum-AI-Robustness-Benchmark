@@ -73,7 +73,7 @@ Quantum-AI-Robustness-Benchmark/
 ## 🚀 How to Run the Project
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/your-username/Quantum-AI-Robustness-Benchmark.git
+git clone https://github.com/shlok926your-username/Quantum-AI-Robustness-Benchmark.git
 cd Quantum-AI-Robustness-Benchmark
 
 2️⃣ Install required dependencies
